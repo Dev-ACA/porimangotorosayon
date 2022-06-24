@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CMP </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/69d86265d2.js" crossorigin="anonymous"></script>
+<style>
+a:link, a:visited {
+  background-color: #4682b4;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: darkgreen;
+}
+.center {
+  text-align: center;
+  color: darkgreen;
+}
+</style>
+</head>
+<body>
+
+<h1 class="center"><i class="fa-solid fa-ghost" style="font-size:45px;color:darkseagreen;"></i> Quantitative Chemistry <i class="fa-solid fa-ghost" style="font-size:45px;color:darkseagreen;"></i></h1><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/523258279258714/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 1</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100077720887248/videos/5250463525000247/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;"> Class 2 </i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/738338290680116/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 3</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/520585136286744/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 4</i></a></p><br>
+
+</body>
+</html>
+
+
